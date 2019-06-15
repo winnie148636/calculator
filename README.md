@@ -4,6 +4,7 @@ An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
 [![Build Status](https://dev.azure.com/winnie148636/Lab2_v2/_apis/build/status/winnie148636.calculator?branchName=master)](https://dev.azure.com/winnie148636/Lab2_v2/_build/latest?definitionId=8&branchName=master)
+
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
